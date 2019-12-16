@@ -1,3 +1,5 @@
 name: Željko Ostojić
 markdown: kramdown
+baseurl: /ozeljko.github.io
 permalink: /blog/:year/:month/:day/:title
+exclude: ["README.md"]
