@@ -33,11 +33,27 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
 ul.posts li {
     list-style: none;
+}
+
+.current {
+  background-color: #000531;
+  color: #FFF;
+}
+
+.master_header {
+    padding: 1em;
+    background: #000531 url("../images/banner.jpg") no-repeat center center;
+    background-size: cover;
+    color: #FFF;
+}
+
+.master_header_blog {
+  background-image: url("../images/banner_blog.jpg");
 }
