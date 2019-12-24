@@ -103,7 +103,7 @@ transition: all 0.3s ease 0s;
   height: 4px;
   position: relative;
   left: 0;
-  background-color: #607D8B
+  background-color: #607D8B;
   transition: .4s;
 }
 
