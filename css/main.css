@@ -119,7 +119,7 @@ transition: all 0.3s ease 0s;
 .panel_container .panel img {
   width: 33%;
   float: left;
-  margin-right: 15px;
+  margin-right: 2rem;
   animation-name: img;
   animation-duration: 2s;
 }
