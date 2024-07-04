@@ -175,6 +175,6 @@ transition: all 0.3s ease 0s;
 #main_page ul { margin: 0 0 32px 17px; }
 #main_page #objective { width: 500px; float: left; }
 #main_page #objective p { font-family: Georgia, Serif; font-style: italic; color: #666; }
-#main_page dt { font-style: italic; font-weight: bold; font-size: 18px; text-align: right; padding: 0 26px 0 0; width: 7rem; float: left; height: 5rem; border-right: 1px solid #999;  }
+#main_page dt { font-style: italic; font-weight: bold; font-size: 18px; text-align: right; padding: 0 26px 0 0; width: 7rem; float: left; height: 5rem;  }
 #main_page dd { width: 600px; float: right; }
 #main_page dd.clear { float: none; margin: 0; height: 15px; }
